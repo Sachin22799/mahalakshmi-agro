@@ -141,15 +141,15 @@ a,
     transition: all .3s ease-in-out;
 }
 
-img {
+  img {
     max-width: 100%;
     height: auto;
-    border-radius: 200px;  
+    border-radius: 1000px;  
 }
 
 img .logo{
-    width: 150px;
-    border-radius: 150px;
+    width: 100px;
+    border-radius: 120px;
     
 }
  :focus {
